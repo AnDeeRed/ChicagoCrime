@@ -1,3 +1,5 @@
+Chicago Crime Data Visualization
+
 This repository presents an interactive Tableau-based data visualization project focused on crime trends across the city of Chicago. The dashboard provides insights into the types of crimes committed, their geographical distribution, and arrest rates over a span of years.
 
 📊 Project Overview
